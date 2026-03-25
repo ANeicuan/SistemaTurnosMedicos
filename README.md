@@ -12,4 +12,5 @@ partir de un sistema de turnos manual. Se busca la eficiencia en una aplicación
 |  |   |     |
 
 ## Diagramas y Diseños
--  [Anexo]()
+-  [Anexo](https://github.com/ANeicuan/SistemaTurnosMedicos/blob/feature/doc-coord-repo-update-readme-md/anexos/introduccion.md)
+
