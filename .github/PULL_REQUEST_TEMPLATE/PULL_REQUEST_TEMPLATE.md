@@ -9,7 +9,7 @@
 - **Carrera:** Tecnicatura Universitaria en Programación de Sistemas  
 - **Materia:** Diseño Orientado a Objetos  
 - **Profesor:** Lic. Matías Velasquez  
-- **Cuatrimestre/Año:** 2º Cuatrimestre / 2025  
+- **Cuatrimestre/Año:** 1º Cuatrimestre / 2026
 - **Rol asignado para esta entrega:** _(Ej.: Analista de Requerimientos, Diseñador de Clases, etc.)_
 
 ---
