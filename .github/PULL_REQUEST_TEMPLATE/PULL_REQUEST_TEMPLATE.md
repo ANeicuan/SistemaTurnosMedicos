@@ -10,14 +10,14 @@
 - **Materia:** Diseño Orientado a Objetos  
 - **Profesor:** Lic. Matías Velasquez  
 - **Cuatrimestre/Año:** 1º Cuatrimestre / 2026
-- **Rol asignado para esta entrega:** _(Ej.: Analista de Requerimientos, Diseñador de Clases, etc.)_
+- **Rol asignado para esta entrega:**
 
 ---
 
 ## 📂 Rama de trabajo
 
-- **Nombre de la rama:** `feature/<rol>-<descripcion>`  
-  _Ejemplo: `feature/analista-requisitos-introduccion-md`_
+- **Nombre de la rama:**  
+  
 
 ---
 
