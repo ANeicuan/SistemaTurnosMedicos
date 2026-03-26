@@ -7,6 +7,10 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 ## [Unreleased]
 
 ### Added
+- [feature/diseniador-clases-add-boceto-inicial] Agrego boceto inicial de clases.
+  PR: [#7](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/7) - @ANeicuan (Diseñador de Clases Iniciales)
+
+### Changed
 - [feature/modelador-casos-uso-update-use-case-1] Agrego casos de uso a introduccion.md
   PR: [#5](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/5) - @ANeicuan (Modelador de Casos de Uso)
 - [feature/analista-requerimientos-add-introduccion-md] Requisitos iniciales del sistema.  
