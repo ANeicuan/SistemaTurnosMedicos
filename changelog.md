@@ -7,6 +7,10 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 ## [Unreleased]
 
 ### Added
+- [feature/doc-coord-repo-update-readme-md] Agrego README.md, introduccion.md  y carpeta diagramas
+  PR: [#9](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/9) - @ANeicuan (Documentador y Coordinador)
+- [feature/doc-coord-repo-update-readme-md] Actualización README.md e introduccion.md.  
+  PR: [#9](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/9) - @ANeicuan (Documentador y Coordinador)
 - [feature/diseniador-clases-add-boceto-inicial] Agrego boceto inicial de clases.
   PR: [#7](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/7) - @ANeicuan (Diseñador de Clases Iniciales)
 
@@ -15,8 +19,6 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
   PR: [#5](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/5) - @ANeicuan (Modelador de Casos de Uso)
 - [feature/analista-requerimientos-add-introduccion-md] Requisitos iniciales del sistema.  
   PR: [#3](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/3) - @ANeicuan (Analista de requerimientos)
-
-### Changed
 - [feature/analista-requerimientos-add-introduccion-md] Actualización de introduccion.md con requisitos iniciales.
   PR: [#3](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/3) - @ANeicuan (Analista de requerimientos)
 
