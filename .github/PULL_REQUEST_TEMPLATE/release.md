@@ -14,8 +14,8 @@ Esta Pull Request representa la **entrega final de la Actividad Obligatoria N°1
 | Nombre completo | Rol asignado en esta entrega | Usuario GitHub |
 |-----------------|-------------------------------|----------------|
 | Alejo Neicuan        | Analista de Requerimientos    | @ANeicuan      |
-| Nombre 2        | Modelador de Casos de Uso     | @usuario2      |
-| Nombre 3        | Diseñador de Clases Iniciales | @usuario3      |
+| Alejo Neicuan        | Modelador de Casos de Uso     | @ANeicuan      |
+| Alejo Neicuan        | Diseñador de Clases Iniciales | @ANeicuan      |
 | Alejo Neicuan        | Documentador y Coordinador    | @ANeicuan      |
 
 ---
@@ -32,13 +32,13 @@ Esta Pull Request representa la **entrega final de la Actividad Obligatoria N°1
 
 ## 📋 Checklist de revisión antes de merge
 
-- [x] Todas las ramas `feature/*` fueron mergeadas en `develop`.
-- [x] Se resolvieron todos los conflictos.
-- [x] La estructura de carpetas y archivos sigue el formato solicitado.
-- [x] Se completó correctamente el archivo `changelog.md`.
-- [x] Se revisaron los comentarios de revisión en cada PR individual.
-- [x] Esta Pull Request se realiza desde `release/actividad-obligatoria-1` hacia `master`.
-- [x] Se notificó en el canal de Slack con el formato correcto.
+- [✅] Todas las ramas `feature/*` fueron mergeadas en `develop`.
+- [✅] Se resolvieron todos los conflictos.
+- [✅] La estructura de carpetas y archivos sigue el formato solicitado.
+- [✅] Se completó correctamente el archivo `changelog.md`.
+- [✅] Se revisaron los comentarios de revisión en cada PR individual.
+- [✅] Esta Pull Request se realiza desde `release/actividad-obligatoria-1` hacia `master`.
+- [✅] Se notificó en el canal de Slack con el formato correcto.
 
 ---
 
