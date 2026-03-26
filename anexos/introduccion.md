@@ -9,4 +9,4 @@ El diseño orientado a objetos es un enfoque conceptual que organiza el software
 
 # Casos de uso
 
-# Bocecto incial del diseño de clases
+# Bocecto inicial del diseño de clases
