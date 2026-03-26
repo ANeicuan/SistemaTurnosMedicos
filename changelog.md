@@ -8,7 +8,7 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 
 ### Added
 - [feature/modelador-casos-uso-update-use-case-1] Agrego casos de uso a introduccion.md
-  PR: [#3]() - @ANeicuan (Modelador de casos de uso)
+  PR: [#5](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/5) - @ANeicuan (Modelador de Casos de Uso)
 
 
 
