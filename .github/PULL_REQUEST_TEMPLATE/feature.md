@@ -23,18 +23,16 @@
 
 ## 📝 Descripción del trabajo realizado
 
-_Describir brevemente qué tareas se llevaron a cabo en esta rama, qué archivos se modificaron o agregaron, y qué objetivo se cumplió según el rol asignado._
+
 
 ---
 
 ## 🔗 Archivos modificados / agregados
 
-- `anexos/introduccion.md`  
-- `diagramas/boceto_inicial_clases.puml`  
-- `README.md`  
-- `anexos/anexos.md`  
-_(Agregar o eliminar según corresponda)_
-
+-
+-
+-
+-
 ---
 
 ## 🔗 Issues vinculados
@@ -57,7 +55,7 @@ _(Agregar o eliminar según corresponda)_
 
 ## 🧠 Comentarios adicionales
 
-_(Opcional – Dejar aclaraciones, dificultades encontradas, o sugerencias)_
+
 
 ---
 
