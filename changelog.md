@@ -8,15 +8,17 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 
 ### Added
 - [feature/doc-coord-repo-update-readme-md] Agrego README.md, introduccion.md  y carpeta diagramas
-  PR: [#1](link) - @ANeicuan (Documentador y Coordinador)
+  PR: [#2]() - @ANeicuan (Documentador y Coordinador)
+- [feature/modelador-casos-uso-update-use-case-1] Agrego casos de uso a introduccion.md
+  PR: [#3]() - @ANeicuan (Modelador de casos de uso)
 
 
 
 ### Changed
 - [feature/doc-coord-repo-update-readme-md] Actualización README.md e introduccion.md.  
-  PR: [#3](link) - @ANeicuan (Documentador y Coordinador)
-
-
+  PR: [#2](link) - @ANeicuan (Documentador y Coordinador)
+- [feature/modelador-casos-uso-update-use-case-1]
+  PR: [#3]()  - @ANeicuan (Modelador de casos de uso)
 
 ---
 
