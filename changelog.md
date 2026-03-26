@@ -13,8 +13,6 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 
 
 ### Changed
-- [feature/modelador-casos-uso-update-use-case-1]
-  PR: [#3]()  - @ANeicuan (Modelador de casos de uso)
 
 ---
 
