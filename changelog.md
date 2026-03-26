@@ -7,6 +7,12 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 ## [Unreleased]
 
 ### Added
+- [feature/modelador-casos-uso-update-use-case-1] Agrego casos de uso a introduccion.md
+  PR: [#5](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/5) - @ANeicuan (Modelador de Casos de Uso)
+
+
+
+### Changed
 - [feature/analista-requerimientos-add-introduccion-md] Requisitos iniciales del sistema.  
   PR: [#3](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/3) - @ANeicuan (Analista de requerimientos)
 
