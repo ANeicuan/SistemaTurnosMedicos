@@ -8,13 +8,13 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 
 ### Added
 - [feature/doc-coord-repo-update-readme-md] Agrego README.md, introduccion.md  y carpeta diagramas
-  PR: [#4](link) - @ANeicuan (Documentador y Coordinador)
+  PR: [#9](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/9) - @ANeicuan (Documentador y Coordinador)
 
 
 
 ### Changed
 - [feature/doc-coord-repo-update-readme-md] Actualización README.md e introduccion.md.  
-  PR: [#4](link) - @ANeicuan (Documentador y Coordinador)
+  PR: [#9](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/9) - @ANeicuan (Documentador y Coordinador)
 
 
 
