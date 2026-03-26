@@ -8,7 +8,7 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 
 ### Added
 - [feature/diseniador-clases-add-boceto-inicial] Agrego boceto inicial de clases.
-  PR: [#3]() - @ANeicuan (Diseñador de clases inciales)
+  PR: [#7](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/7) - @ANeicuan (Diseñador de Clases Iniciales)
 
 ### Changed
 
