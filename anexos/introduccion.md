@@ -1,6 +1,10 @@
-# Anexo - Introducción al Diseño Orientado a Objetos
-
+### Anexo - Introducción al Diseño Orientado a Objetos
+El diseño orientado a objetos es un enfoque conceptual que organiza el software como una colección de objetos que contienen tanto datos como comportamientos, este paradigma se centra en modelar objetos del mundo real o simulados, dividiendo el sistema en unidades independientes.
 # Los cuatro fundamentos de POO
+- Encapsulación: Protege los datos restringiendo el acceso, se realiza exclusivamente a través de interfaces públicas o métodos, que promuevan la seguridad y modularidad.
+- Herencia: Premite crear una clase nueva a partir de una clase base, heredando sus atributos y comportamientos.
+- Polimorfismo: Es la capacidad que tienen diferentes objetos en una jerarquía de clases para responder de manera distinta a un mismo mensaje o comando.
+- Abstracción: Es el proceso de simplificar lo complejo, ocultando detalles innecesarios para el usuario.
 
 # Requisitos iniciales del sistema
 ## Requisitos funcionales
@@ -48,5 +52,6 @@
     - Enviar notificaciones y recordatorios: Enviar avisos automáticos vía Whatsapp e Email al paciente el día anterior al turno y notificar inmediatamente ante cualquier cambio o cancelación.
 - **5** Interacción del Paciente:
     - Notificar cancelación: Permitir que el paciente informe que no podrá asistir. Debe quedar registrado formalmente en el sistema.
-
-# Boceto inicial del diseño de clases
+### Boceto inicial de clases
+![imagen](boceto_incial.png)
+[Ver en línea](https://excalidraw.com/#json=J1eBXHIj3IBlwhIzJKmiP,bWudUZzqzcJI5R_ekfiqHQ)
