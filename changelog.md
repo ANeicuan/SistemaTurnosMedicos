@@ -14,7 +14,7 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 
 ### Changed
 - [feature/analista-requerimientos-add-introduccion-md] Actualización de introduccion.md con requisitos inciales.
-  PR: [#3](link) - @Aneicuan (Analista de requerimientos)
+  PR: [#1](link) - @Aneicuan (Analista de requerimientos)
 
 -
 
