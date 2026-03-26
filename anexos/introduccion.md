@@ -4,7 +4,7 @@
 - RF2 Tener la capacidad de visualizar la agenda por dia y semana.
 - RF3 El sistema debe evitar que se generen conflictos con la agenda(doble turno en un mismo horario).
 - RF4 Tiene que permitir configurar el horario base del profesional(Lunes a viernes de 9-13 y 15-19) y bloquear horarios por vacaciones, feriados o reuniones.
-- RF5 No dedbe permitir sobreturnos automáticos. Debe ser de forma manual del profesional(máximo de dos por día).
+- RF5 No debe permitir sobreturnos automáticos. Debe ser de forma manual de parte del profesional(máximo de dos por día).
 - RF6 Debe tener diferentes duraciones predefinidas: 15 min para controles y 30 min para primera consulta. Debe contemplar que la duración real puede diferir de la predefinida.
 - RF7 Debe incluirse la funcionalidad para marcar cuando un paciente llega fisicamente al consultorio, registrando la hora real de llegada.
 - RF8 Debe tener un registro OBLIGATORIO de todas las modificaciones y cancelaciones para resolver cualquier disputa sobre quien cambio un turno.
@@ -16,7 +16,7 @@
     - Manejar una tolerancia de llegada de 10 min para decidir que hacer con el turno.
 ## Requisitos no funcionales
 
-- RNF1 Debe enviar notificaciones automaticas el dia anterior al turno, via whatsapp (principal) y mail.
+- RNF1 Debe enviar notificaciones automáticas el dia anterior al turno, via WhatsApp (principal) y Mail.
 - RNF2 La interfaz debe ser simple e intuitiva para que el profesional pueda utilizarla sin requerir un aprendizaje complejo.
 - RNF3 El sistema debe ser diseñado de forma que permita el crecimiento futuro a multiples medicos y consultorios sin romper el modelo base.
 - RNF4 El sistema debe impedir usos incorrectos mediante un buen encapsulamiento de la lógica de negocio. Objetivo primordial es garantizar que no se superpongan turnos(salvo excepciones autorizadas).
