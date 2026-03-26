@@ -2,7 +2,7 @@
 
 # Los cuatro fundamentos de POO
 
-# Requisitos inicales del sistema
+# Requisitos iniciales del sistema
 
 # Casos de uso
  - **1** Gestion de Turnos: 
@@ -24,4 +24,4 @@
 - **5** Interacción del Paciente:
     - Notificar cancelación: Permitir que el paciente informe que no podrá asistir. Debe quedar registrado formalmente en el sistema.
 
-# Bocecto incial del diseño de clases
+# Bocecto inicial del diseño de clases
