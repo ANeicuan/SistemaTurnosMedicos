@@ -1,11 +1,5 @@
 ### Anexo - Introducción al Diseño Orientado a Objetos
 
-### Los cuatro fundamentos de POO
-
-### Requisitos iniciales del sistema
-
-### Casos de uso
-
 # Los cuatro fundamentos de POO
 - Encapsulación: Protege los datos restringiendo el acceso, se realiza exclusivamente a través de interfaces públicas o métodos, que promuevan la seguridad y modularidad.
 - Herencia: Premite crear una clase nueva a partir de una clase base, heredando sus atributos y comportamientos.
@@ -61,4 +55,3 @@
 ### Boceto inicial de clases
 ![imagen](boceto_incial.png)
 [Ver en línea](https://excalidraw.com/#json=J1eBXHIj3IBlwhIzJKmiP,bWudUZzqzcJI5R_ekfiqHQ)
-# Anexo - Introducción al Diseño Orientado a Objetos
