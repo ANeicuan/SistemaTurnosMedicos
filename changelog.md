@@ -10,6 +10,7 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 - [feature/diseniador-clases-add-boceto-inicial] Agrego boceto inicial de clases.
   PR: [#3]() - @ANeicuan (Diseñador de clases inciales)
 
+### Changed
 
 ---
 
