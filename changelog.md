@@ -10,16 +10,15 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 - [feature/analista-requerimientos-add-introduccion-md] Requisitos inciales del sistema.  
   PR: [#1](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/3) - @ANeicuan (Analista de requerimientos)
 
--
 
 ### Changed
 - [feature/analista-requerimientos-add-introduccion-md] Actualización de introduccion.md con requisitos inciales.
   PR: [#1](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/3) - @Aneicuan (Analista de requerimientos)
 
--
-
 ### Fixed
-- 
+- [feature/analista-requerimientos-add-introduccion-md]
+Correciónes de ortografía en changelog.md e introduccion.md
+  PR: [#1](https://github.com/ANeicuan/SistemaTurnosMedicos/pull/3) - @Aneicuan (Analista de requerimientos)
 
 ---
 
