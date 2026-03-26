@@ -5,7 +5,7 @@ El diseño orientado a objetos es un enfoque conceptual que organiza el software
 - Herencia: Premite crear una clase nueva a partir de una clase base, heredando sus atributos y comportamientos.
 - Polimorfismo: Es la capacidad que tienen diferentes objetos en una jerarquía de clases para responder de manera distinta a un mismo mensaje o comando.
 - Abstracción: Es el proceso de simplificar lo complejo, ocultando detalles innecesarios para el usuario.
-# Requisitos inicales del sistema
+# Requisitos iniciales del sistema
 
 # Casos de uso
 
